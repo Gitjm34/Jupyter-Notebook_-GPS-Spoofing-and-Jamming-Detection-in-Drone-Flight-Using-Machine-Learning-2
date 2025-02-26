@@ -1,4 +1,4 @@
-# Jupyter-Notebook_-GPS-Spoofing-and-Jamming-Detection-in-Drone-Flight-Using-Machine-Learning-2
+# Jupyter_Notebook_GPS_Spoofing_and_Jamming_Detection_in_Drone_Flight_Using_Machine_Learning-2
 
 # UAV Security Project: GPS Jamming & Spoofing Detection
 
